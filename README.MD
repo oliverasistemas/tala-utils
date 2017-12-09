@@ -1,1 +1,1 @@
-Utility librery
+Utility library
