@@ -1,0 +1,9 @@
+{
+  "name": "tala-utils",
+  "version": "1.0.0",
+  "description": "Utility library",
+  "main": "index.js",
+  "author": "Adolfo Olivera",
+  "license": "MIT",
+  "private": false
+}
