@@ -5,5 +5,11 @@
   "main": "index.js",
   "author": "Adolfo Olivera",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
 }
