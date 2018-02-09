@@ -1,6 +1,6 @@
 {
   "name": "tala-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Utility library",
   "main": "index.js",
   "author": "Adolfo Olivera",
